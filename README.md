@@ -9,9 +9,12 @@ This jekyll theme is based on [theme-Leaf](https://github.com/SupunKavinda/jekyl
  - Support Speakerdeck embedded slides
  - Support Github Gist embeddings
 
+## Preview
+![Screenshot1](assets/img/screenshot1.JPG?raw=true)
+
 You can see this template live [here](https://tarekeldeeb.github.io)!
 
-### Installing
+### Usage
  - Use this template, it will clone it to your side (without history)
  - Simply install [Ruby](https://www.ruby-lang.org/en/downloads/), according to your OS.
  - Try it at your side with `bundle exec jekyll build`
