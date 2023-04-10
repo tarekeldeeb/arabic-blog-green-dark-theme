@@ -14,4 +14,5 @@ You can see this template live [here](https://tarekeldeeb.github.io)!
 ### Installing
  - Use this template, it will clone it to your side (without history)
  - Simply install [Ruby](https://www.ruby-lang.org/en/downloads/), according to your OS.
- - Finally, try it at your side with `bundle exec jekyll build`
+ - Try it at your side with `bundle exec jekyll build`
+ - Finally, create a post in `/_posts/` with the name `<publish-date>-<post-title>.md`
