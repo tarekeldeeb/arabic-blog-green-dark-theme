@@ -1,0 +1,31 @@
+title: Your Name's Blog
+author: Your Name
+tagline: Personal Arabic Blog 
+description: A personal space to share my thoughts.
+iconURL: assets/default-icon.png
+remote-theme: tarekeldeeb/arabic-blog-green-dark-theme
+
+# for a clean URL
+permalink: :slug
+
+social:
+  twitter: your_name
+  github: your_name
+  linkedin: your_name
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: assets/default-img.png
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-gist
+
+### comments & analytics
+#hyvor_talk_website_id: 3992
+google_analytics: G-XXXXXXXXXX
